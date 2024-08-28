@@ -1,0 +1,3 @@
+Knippenberg’s GitHub for Assignments
+
+Oooh, I think I might use just GitHub, without VSCode. It seems closer to the bone. VSCode feels like an extra layer (or “abstraction”) for doing all this. I like the idea of cloning, but VS Code also has a ton of extra features that are quite frankly distracting me at the moment. However, usually I will START using something, and once it’s easy, I’ll sometimes say to myself “it would be great if this program could …” Maybe at that point I would switch to VSCode. 
